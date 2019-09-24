@@ -1,17 +1,17 @@
 ## Company Name
-_(What is the name of the company you're posting?)_
+<!-- What is the name of the company you're posting? -->
 
 ## Job Title
-_(Whe what is the job title?)_
+<!-- What is the job title? -->
 
 ## Role description
-_(Brief description of the role?)_
+<!-- Brief description of the role? -->
 
 ## Salary Range
-_(If you can, provide - what is the salary range?)_
+<!-- If you can, provide - what is the salary range? -->
 
 ## Do you allow remote?
-_(If yes, please describe number of days allowed to work remote.)_
+<!-- If yes, please describe number of days allowed to work remote. -->
 
 ## Link to job
-_(Where can the potential candidate apply for this job?)_
+<!-- Where can the potential candidate apply for this job? -->
