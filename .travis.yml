@@ -1,0 +1,11 @@
+language: bash
+sudo: required
+os:
+- linux
+
+before_install:
+  - sudo apt-get update -q
+  - sudo apt-get install aspell -y
+
+script:
+  - aspell ./
