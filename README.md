@@ -9,8 +9,8 @@ out to the Help section below and we'll attend to it ASAP.
 
 So, you've come here looking for a job in the DevOps Space. Awesome. We have a
 specific reason why this repo exists. Hiring engineers with the correct passion
-and skill set is hard. **REALLY HARD**. Jobs sometimes don't get filled for Months or
-in some cases Years. The jobs either roll off or disappear through the other means
+and skill set is hard. **REALLY HARD**. Jobs sometimes don't get filled for months or
+in some cases years. The jobs either roll off or disappear through the other means
 to find them, this is a little more "permanent."
 
 Also, if you are looking at this level, you probably find your job through your network.
@@ -23,7 +23,7 @@ Please open an [ISSUE](https://github.com/Austin-Devops/atxdevops-job-board/issu
 information, and then we can continue with the search with you!
 
 - **Company Name**: What is the name of the company you're posting?
-- **Location**: Austin "based". This could also mean a Resident of ATX, and remote. We want to
+- **Location**: Austin "based". This could also mean a resident of ATX, and remote. We want to
 scope the location for people in the Austin Metro Area.
 - **Job Title**: What is the job title?
 - **Role description**: Brief description of the role?

@@ -1,6 +1,9 @@
 ## Company Name
 <!-- What is the name of the company you're posting? -->
 
+## Location
+<!-- Austin "based". This could also mean a resident of ATX, and remote. -->
+
 ## Job Title
 <!-- What is the job title? -->
 
