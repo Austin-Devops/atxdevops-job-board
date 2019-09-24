@@ -19,7 +19,7 @@ of it.
 
 ## Usage and What We Expect
 
-Please open a [PR](https://github.com/Austin-Devops/atxdevops-job-board/pulls) with the following
+Please open an [ISSUE](https://github.com/Austin-Devops/atxdevops-job-board/issues/new) with the following
 information, and then we can continue with the search with you!
 
 - **Company Name**: What is the name of the company you're posting?
