@@ -1,0 +1,5 @@
+# Order is important! The last matching pattern has the highest precedence.
+
+*                           @Austin-Devops/job-board
+.github/*                   @Austin-Devops/org-admins
+.github/ISSUE_TEMPLATE/*    @Austin-Devops/job-board

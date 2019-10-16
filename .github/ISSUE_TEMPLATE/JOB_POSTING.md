@@ -1,3 +1,9 @@
+---
+name: Job Submission
+about: I have a job I would like to post on the ATX Devops Meetup Job Board
+labels: "Status: Untriaged"
+---
+
 ## Company Name
 <!-- What is the name of the company you're posting? -->
 
