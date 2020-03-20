@@ -31,6 +31,17 @@ scope the location for people in the Austin Metro Area.
 - **Do you allow remote?**: If yes, please describe number of days allowed to work remote.
 - **Link to job**: Where can the potential candidate apply for this job?
 
+### If you are looking
+
+Please put in a PR markdown in the [looking](./looking) directory with at least the following, but
+we have a template you can copy from too:
+
+- **Name**: We need to know who you are
+- **Loctation**: Austin "based". This could also mean a resident of ATX, and remote.
+- **Previous title(s)**: Name any titles you have
+- **Ideal role**: Describe the role you are looking for, what skills you have to match it
+- **A way to contact you**: What's the best way to contact you?
+
 
 ## Help
 
