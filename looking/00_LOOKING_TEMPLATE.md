@@ -5,7 +5,7 @@
 ---
 
 - **Name**: Jane Example
-- **Loctation**: Northwest Austin, but ideally remote.
+- **Location**: Northwest Austin, but ideally remote.
 - **Previous title(s)**: Principle DevOps Engineer
 - **Ideal role**: SRE based environment, I'd really like to be able to support an container based application stack. My life has been driven by CD and CI, and i want to continue those skills.
   - I'm proficent in `go`, `python` and `bash`

@@ -37,7 +37,7 @@ Please put in a PR markdown in the [looking](./looking) directory with at least 
 we have a template you can copy from too:
 
 - **Name**: We need to know who you are
-- **Loctation**: Austin "based". This could also mean a resident of ATX, and remote.
+- **Location**: Austin "based". This could also mean a resident of ATX, and remote.
 - **Previous title(s)**: Name any titles you have
 - **Ideal role**: Describe the role you are looking for, what skills you have to match it
 - **A way to contact you**: What's the best way to contact you?
