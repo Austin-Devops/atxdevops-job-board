@@ -1,0 +1,14 @@
+---
+
+- **Name**: Bennett Novak
+- **Location**: Remote
+- **Previous title(s)**: Site Reliability Engineer, DevOps Engineer, Linux Systems Engineer
+- **Ideal role**: SRE or DevOps role focusing on K8s and automation.  Opportunity to build my professional developer skillset a plus
+  - Certified Kubernetes Administrator (LF-39ht3w4m2e)
+  - Container Platforms: `kubernetes`, `openshift`, `mesos`
+  - Cloud Infrastructure: `aws`, `vsphere`, `azure`, `rackspace`
+  - Config Management: `ansible`, `chef`, `puppet`
+  - IAC: `terraform`, `aws cloudformation`
+  - Languages: `bash`, `python`, `go`
+  - Resume: <https://github.com/bobross419/resume>
+- **A way to contact you**: <bennett.alder.novak@gmail.com> 
